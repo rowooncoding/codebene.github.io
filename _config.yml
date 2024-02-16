@@ -63,7 +63,7 @@ about_content: | # 자기소개 적으면 됨
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: 혼밥멈춰 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
