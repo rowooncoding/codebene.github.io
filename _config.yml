@@ -17,7 +17,7 @@ website_title: Blog
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
@@ -68,7 +68,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Backend Engineer
         caption: 2024.01.01
