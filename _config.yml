@@ -37,7 +37,7 @@ github_username: rowooncoding
 # Additional icon links
 additional_links:
   - title: portfolio
-    icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+    icon: (fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
     url: https://www.miricanvas.com/v/12twf7x
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
