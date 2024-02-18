@@ -14,7 +14,8 @@ phone: 01025927128
 # phone_title: Phone (Phone title override)
 website: https://codebene.tistory.com/
 website_title: Blog
-# website_title: Web (Website title override)
+portfolio: https://www.miricanvas.com/v/12twf7x
+portfolio_title: rowoon-portfolio
 
 # Dark Mode (true/false/never)
 darkmode: true
