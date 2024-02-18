@@ -14,8 +14,6 @@ phone: 01025927128
 # phone_title: Phone (Phone title override)
 website: https://codebene.tistory.com/
 website_title: Blog
-portfolio: https://www.miricanvas.com/v/12twf7x
-portfolio_title: rowoon-portfolio
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -36,10 +34,10 @@ github_username: rowooncoding
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-  - title: portfolio
-    icon: (fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-    url: https://www.miricanvas.com/v/12twf7x
+#additional_links:
+#  - title: portfolio
+#    icon: (fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#    url: https://www.miricanvas.com/v/12twf7x
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -66,29 +64,37 @@ about_content: | # 자기소개 적으면 됨
   또한 매 프로젝트마다 팀장을 맡아왔기 때문에 다양한 인간성을 경험하고 이해하여 원활한 커뮤니케이션을 기반한 협업이 가능합니다.
 
 content:
-  - title: Work Experience
-    layout: list
-    content:
-      - layout: left
-        title: Company name
-        sub_title: Backend Engineer
-        caption: 2024.01.01
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+#  - title: Work Experience
+#    layout: list
+#    content:
+#      - layout: left
+#        title: Company name
+#        sub_title: Backend Engineer
+#        caption: 2024.01.01
+#        link: Link to company (optional)
+#        quote: >
+#          Short description of the company (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of role
   - title: 역량
     layout: list
     content:
       - layout: top-left
         title: 서비스 개발
-        sub_title: 신규 서비스 분석 및 개발
+        sub_title: 신규 서비스 개발
         description: | # 해당하는 기술 블로그가 있다면 링크 걸어두기 pw포함해서
-         - [2024-01.01, 멋쟁이 사자처럼] 내용 
-         - [2024-01.01, 멋쟁이 사자처럼] 내용 
-         - [2024-01.01, 멋쟁이 사자처럼] 내용 
-         - [2024-01.01, 멋쟁이 사자처럼] 내용
+         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] 카카오 지도 api를 사용한 약속만들기 서비스 개발
+         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] 카카오 지도 api를 사용한 메인페이지 개발(게시글 동적 랜더링) 
+         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] React와 Spring Boot를 분리한 개발환경 구축 
+         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] MySQL을 사용한 게시글 부분 데이터베이스 구축 
+         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] 글쓰기 서비스 개발
+         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] Firebase를 사용한 데이터베이스 관리
+         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] github actions, pages 활용한 CI/CD 환경 구축- layout: top-left
+        title: 시스템 기획 및 설계
+        sub_title: 신규 서비스 개발
+        description: | # 해당하는 기술 블로그가 있다면 링크 걸어두기 pw포함해서
+         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] 카카오 지도 api를 사용한 약속만들기 서비스 개발
+         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] 글쓰기 서비스 개발
   - title: 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
