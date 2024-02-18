@@ -130,6 +130,20 @@ content:
           - Junit5
           - Gradle
           - IntelliJ
+      - layout: left
+        title: Frontend
+        description: | # this will include new lines to allow paragraphs
+          - Html
+          - CSS
+          - React
+          - Tailwind
+          - Visual Studio Code
+      - layout: left
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          - MySQL
+          - Vercel, GitHub Action
+          - Git
   - title: 학력
     layout: text
     content: | # this will include new lines to allow paragraphs
