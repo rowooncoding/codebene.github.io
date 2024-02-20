@@ -115,7 +115,7 @@ content:
             icon: fab fa-github
             url: https://github.com/youngboyclub/honbab-mumcha-front-
         quote: >
-          Short overview of the project (optional)
+          더 이상 혼밥하지 말자구요!
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: 기술스택
