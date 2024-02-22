@@ -33,14 +33,14 @@ github_username: rowooncoding
 # orcid_username: 0000-0000-0000-0000
 # googlescholar_username: D847cGsAAAAJ
 
-# Additional icon links
-#additional_links:
-#  - title: portfolio
-#    icon: (fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#    url: https://www.miricanvas.com/v/12twf7x
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+#Additional icon links
+additional_links:
+  - title: portfolio
+    icon: (fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+    url: https://www.miricanvas.com/v/12twf7x
+  - title: another link
+    icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+    url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -215,9 +215,19 @@ content:
           - Git/GitHub 세팅법과 사용 연습
           - 리액트와 firebase를 활용한 파이널프로젝트
   - title: 수상
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      
+    layout: list
+    content:
+      - layout: top-left
+        title: 청년취업사관학교(Sesac)
+        sub_title: 파이널프로젝트
+        description: | # 해당하는 기술 블로그가 있다면 링크 걸어두기 pw포함해서
+          - [2023-11 ~ 2023-11, 청년취업사관학교 파이널프로젝트] 베스트 팀워크상
+      - layout: top-left
+        title: 멋쟁이 사자처럼 프론트엔드 스쿨 4기
+        sub_title: 수료식 Award
+        description: | # 해당하는 기술 블로그가 있다면 링크 걸어두기 pw포함해서
+          - [2023-04 ~ 2023-04, 멋쟁이 사자처럼] 컨텐츠상
+          - [2023-04 ~ 2023-04, 멋쟁이 사자처럼] 동료 칭찬상 
 
 # Footer
 footer_show_references: true
