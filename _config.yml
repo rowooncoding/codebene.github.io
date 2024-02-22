@@ -117,7 +117,40 @@ content:
         quote: >
           더 이상 혼밥하지 말자구요!
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - <b>피그마 활용<b>한 와이어프레임, 디자인
+          - 기술스택, 라이브러리 선정을 위한 회의 주도
+          - <b>리액트, 스프링부트를 연동<b>하여 개발환경 구축
+          - 컬렉션 변경, 타입 변경으로 MyPage <b>성능 향상<b>
+          - 카카오 지도 api 공식 코드를 리액트 코드로 수정 후 사용
+          - 카카오 지도 api를 사용하여 약속 생성 페이지 완성
+          - 카카오 지도 api를 사용하여 메인페이지 완성
+          - 데이터 일관성 유지를 위하여 <b>base 엔티티<b> 사용
+          - 협업 경험을 위한 `Swagger` 라이브러리 사용
+          - 회의록 및 프로젝트 구조 문서화
+          - 피피티 활용하여 데모데이 발표 진행
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: God Life
+        #        link: https://github.com/youngboyclub/honbab-mumcha
+        #        link_text: 프로젝트 깃허브
+        additional_links:
+          - title: 갓생 깃허브 주소
+            icon: fab fa-github
+            url: https://github.com/likelion-lab10/godlife
+        quote: >
+          개발자의 건강을 위해서 우리모두 갓생!
+        description: | # this will include new lines to allow paragraphs
+          - <b>피그마 활용<b>한 와이어프레임, 디자인
+          - 기술스택, 라이브러리 선정을 위한 회의 주도
+          - <b>리액트와 fireabase, tailwind<b>의 개발환경 구축
+          - <b>공통 컴포넌트<b> 생성
+          - <b>firebase<b> 데이터베이스 관리
+          - 챌린지 작성 페이지를 구축하여 해쉬태그, 사진파일, 카테고리 등을 데이터베이스에 저장
+          - Sweet Alert2 라이브러리 사용
+          - github action, pages 활용하여 <b>CI/CD 환경 구축<b>
+          - 회의록 및 프로젝트 구조 문서화
+          - 피피티 활용하여 데모데이 발표 진행
   - title: 기술스택
     layout: list
     content:
