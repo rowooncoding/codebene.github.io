@@ -117,18 +117,18 @@ content:
         quote: >
           더 이상 혼밥하지 말자구요!
         description: | # this will include new lines to allow paragraphs
-          - <b>피그마 활용</b>한 와이어프레임, 디자인
+          - 피그마 활용한 와이어프레임, 디자인
           - 기술스택, 라이브러리 선정을 위한 회의 주도
           - `리액트`, `스프링부트`를 연동하여 개발환경 구축
-          - 컬렉션 변경, 타입 변경으로 MyPage <b>성능 향상</b>
+          - 컬렉션 변경, 타입 변경으로 MyPage 성능 향상
           - 카카오 지도 api 공식 코드를 리액트 코드로 수정 후 사용
           - `카카오 지도 api`를 사용하여 약속 생성 페이지 완성
           - `카카오 지도 api`를 사용하여 메인페이지 완성
-          - 데이터 일관성 유지를 위하여 <b>base 엔티티<b> 사용
+          - 데이터 일관성 유지를 위하여 `base 엔티티` 사용
           - 협업 경험을 위한 `Swagger` 라이브러리 사용
           - `axios`를 사용하여 비동기 통신
           - `Restful API`를 지향한 API 구축
-          - 회의록 및 프로젝트 구조 <b>문서화<b>
+          - 회의록 및 프로젝트 구조 <b>문서화</b>
           - 피피티 활용하여 데모데이 발표 진행
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -143,11 +143,11 @@ content:
         quote: >
           개발자의 건강을 위해서 우리모두 갓생!
         description: | # this will include new lines to allow paragraphs
-          - <b>피그마 활용<b>한 와이어프레임, 디자인
+          - 피그마 활용한 와이어프레임, 디자인
           - 기술스택, 라이브러리 선정을 위한 회의 주도
-          - 리액트와 `fireabase`, `tailwind`의 개발환경 구축
-          - <b>공통 컴포넌트<b> 생성
-          - <b>firebase<b> 데이터베이스 관리
+          - `리액트`와 `fireabase`, `tailwind`의 개발환경 구축
+          - 공통 컴포넌트 생성
+          - `firebase` 데이터베이스 관리
           - 챌린지 작성 페이지를 구축하여 해쉬태그, 사진파일, 카테고리 등을 데이터베이스에 저장
           - Sweet Alert2 라이브러리 사용
           - github action, pages 활용하여 <b>CI/CD 환경 구축<b>
@@ -182,35 +182,42 @@ content:
   - title: 학력
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - [2016-03 ~  2022-02, 순천향대학교] 경제금융학 학사
+      - [2014-03 ~  2016-02, 매탄고등학교] 졸업
   - title: 활동 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: 백엔드 개발자 과정(JAVA 기반)
         quote: >
-          Short overview of the project (optional)
+          청년취업사관학교(SESAC)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - 자바 문법에 대한 학습과 순수 자바를 활용한 토이프로젝트 경험
+          - 오라클 현업자에게 배우는 오라클 데이터베이스 쿼리문 학습
+          - 자바 현업자에게 배우는 스프링부트 기본(DI, IoC)
+          - 펫 인포 토이프로젝트로 배우는 스프링 부트 MVC 모델링
+          - AWS를 활용한 CI/CD 환경 구축 및 클라우드 활용법 학습
+          - 풀스택 프로젝트 진행
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 프론트엔드 스쿨 4기
+        quote: >
+          멋쟁이 사자처럼 X 이듬
+        description: | # this will include new lines to allow paragraphs
+          - 고정형, 반응형 웹 학습
+          - 접근성에 대한 학습
+          - 사용자 중심 UI/UX 설계방법 학습
+          - React를 사용한 미니 프로젝트 만들기
+          - VITE를 사용한 라이브러리 환경설정과 빌드 학습
+          - Git/GitHub 세팅법과 사용 연습
+          - 리액트와 firebase를 활용한 파이널프로젝트
   - title: 수상
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
 
 # Footer
 footer_show_references: true
