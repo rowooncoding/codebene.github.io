@@ -36,7 +36,8 @@ github_username: rowooncoding
 #Additional icon links
 additional_links:
   - title: portfolio
-    icon: fab fa-twitter
+    #icon: fab fa-twitter
+    icon: fas fa-file-powerpoint
     url: https://www.miricanvas.com/v/12twf7x
 
 # Google Analytics and Tag Manager
