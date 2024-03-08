@@ -179,7 +179,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [2016-03 ~  2022-02, 순천향대학교] 경제금융학 학사
-      - [2014-03 ~  2016-02, 매탄고등학교] 졸업
+      - [2013-03 ~  2016-02, 매탄고등학교] 졸업
   - title: 활동 # Title for the section
     layout: list # Type of content section (list/text)
     content:
