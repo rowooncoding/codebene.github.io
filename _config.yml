@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 이로운
-title: Backend Engineer
+title: FullStack Engineer
 email: dev.rowoon@gmail.com
 # email_title: Email (Email title override)
 phone: 01025927128
@@ -51,13 +51,13 @@ additional_links:
 about_profile_image: images/증명사진.jpg
 # Directory of profile image (eg. images/profile.jpg) 
 about_content: | # 자기소개 적으면 됨
-  `로운스쿨을 통한 이로운 개발자라는 꿈`: <b>로운스쿨</b>이라는 스터디를 통하여 '같이하는 가치'를 실현하며 <b>원활한 커뮤니케이션과 효과적인 협업을 가능케 하는 능력</b>을 키워왔습니다.
+  `현업에서 실행하고 있는 이로운 개발자라는 꿈`: <b>세포아소프트 테크 3팀</b>에서 고객사와 '같이하는 가치'를 실현하며 <b>원활한 커뮤니케이션과 효과적인 협업을 가능케 하는 능력</b>을 키우고있습니다.
   
-  `고객이 필요로 하는` 서비스를 개발하는 것이 중요하다는 생각에 사용자의 경험, 서비스 사용성 등에 대해서도 함께 고민하며 개발을 공부하고 있습니다.
+  탱탱볼 같은 막내가 되지 않기 위해 오늘 작업한 코드를 복습하고 정리하는 `퇴근 후 자기계발` 시간을 가지고 있습니다.
+
+  솔루션 이외에 `고객이 필요로 하는` 서비스를 개발하는 것이 중요하다는 생각에 사용자의 경험, 서비스 사용성 등에 대해서도 함께 고민하며 개발을 진행하고 있습니다.
   
-  1년간 백엔드와 프론트엔드 기술을 익혀 풀스택 프로젝트를 진행하면서 백엔드와 프론트엔드 개발에 대한 지식을 함께 쌓아왔습니다.
-  
-  깃허브와 블로그를 적극 활용하여 <b>문서화<b>를 진행하고 기록합니다.
+  현재 사내 프레임워크(자바, 자바스크립트 기반)를 중점으로 프로젝트를 진행하고 있습니다.
 
 content:
 #  - title: Work Experience
@@ -79,13 +79,17 @@ content:
         title: 서비스 개발
         sub_title: 신규 서비스 개발
         description: | # 해당하는 기술 블로그가 있다면 링크 걸어두기 pw포함해서
-         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] 카카오 지도 api를 사용한 약속만들기 서비스 개발
-         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] 카카오 지도 api를 사용한 메인페이지 개발(게시글 동적 랜더링) 
-         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] React와 Spring Boot를 분리한 개발환경 구축 
-         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] MySQL을 사용한 게시글 부분 데이터베이스 구축 
-         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] 글쓰기 서비스 개발
-         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] Firebase를 사용한 데이터베이스 관리
-         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] github actions, pages 활용한 CI/CD 환경 구축- layout: top-left
+         - [2024-08 ~ 2023-08, 코스맥스 인장/계약 솔루션] 인사, 직책, 발령 마스터 인터페이스 배치 개발 (db to db)
+         - [2024-08 ~ 2023-08, 코스맥스 인장/계약 솔루션] 결재 위임 기능 개발
+         - [2024-08 ~ 2023-08, 코스맥스 인장/계약 솔루션] 계약서 전자서명시 Secukit one + 직접 개발한 전화번호 2차 인증 서비스 개발
+         - [2024-08 ~ 2023-08, 코스맥스 인장/계약 솔루션] 기존에 복잡했던 인감 등록, 반납, 반출 프로세스를 특정 권한을 가진 사용자 일괄처리 기능(시스템 간소화)
+         - [2024-07 ~ 2023-08, 세포아소프트 무전표 고도화] 노후화된 서비스 개선을 위해 싱글플랫폼 서비스로 기능 개선(개발 속도 50%이상 상승)
+         - [2024-06 ~ 2023-08, 동아제약 인장/계약 솔루션] 법무검토 페이지 조회 권한 변경
+         - [2024-06 ~ 2023-08, 동아제약 인장/계약 솔루션] 날인 완료된 서류 자동 메일 발송
+         - [2024-06 ~ 2023-08, 동아제약 인장/계약 솔루션] 이전 계약건 링크 첨부 및 열람
+         - [2024-06 ~ 2023-06, 세포아소프트 무전표 솔루션] 백업 배치잡 개발
+         - [2023-11 ~ 2023-11, 청년취업사관학교 파이널 프로젝트] 카카오 지도 api를 활용한 혼밥멈춰 서비스 개발(React와 Spring Boot 사용)
+         - [2023-03 ~ 2023-04, 멋쟁이 사자처럼 파이널 프로젝트] 갓생 프로젝트 개발
 
       - layout: top-left
         title: 시스템 기획 및 설계
@@ -183,6 +187,16 @@ content:
   - title: 활동 # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 세포아소프트
+        quote: >
+          테크3팀
+        description: | # this will include new lines to allow paragraphs
+          - 입사자 과제 통과
+          - 테크3팀 무전표 파트
+          - 동아제약, 코스맥스, 아워홈 등 대기업 솔루션 프로젝트 수행중
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
