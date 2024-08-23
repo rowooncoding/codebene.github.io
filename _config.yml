@@ -195,7 +195,7 @@ content:
           테크3팀
         description: | # this will include new lines to allow paragraphs
           - 입사자 과제 통과
-          - 테크3팀 무전표 파트
+          - 테크3팀 무전표 파트 배정
           - 동아제약, 코스맥스, 아워홈 등 대기업 솔루션 프로젝트 수행중
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
